@@ -1,4 +1,4 @@
-# 🧠 MathBrain: Semantic Algebra Graph Explorer
+# MathBrain
 
 **MathBrain** is a knowledge engineering tool designed for pure mathematics and computer science students. It leverages the **Gemini 1.5/3.0 API** to transform unstructured handwritten notes into an **Interactive Semantic Graph**.
 
@@ -6,7 +6,7 @@ Unlike conventional digital notebooks, MathBrain identifies logical dependencies
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Multimodal Math OCR:** High-precision transcription of complex handwritten algebraic notes into strict $\LaTeX$ using LLMs.
 * **Logical Dependency Graph:** An interactive visualization where physical proximity represents thematic relationships (e.g., Group Theory, Rings, Fields).
@@ -15,7 +15,7 @@ Unlike conventional digital notebooks, MathBrain identifies logical dependencies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **AI/LLM:** Google Gemini API (1.5 Flash / 3.0 models).
 * **Backend:** Python 3.10+
@@ -25,7 +25,7 @@ Unlike conventional digital notebooks, MathBrain identifies logical dependencies
 
 ---
 
-## 📐 How it Works (Under the Hood)
+## How it Works (Under the Hood)
 
 1.  **Ingestion:** User uploads images or PDFs of handwritten notes.
 2.  **Semantic Extraction:** Gemini analyzes the input and returns a structured JSON schema including:
@@ -36,7 +36,7 @@ Unlike conventional digital notebooks, MathBrain identifies logical dependencies
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
