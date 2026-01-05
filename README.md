@@ -5,7 +5,7 @@
 Unlike conventional digital notebooks, MathBrain identifies logical dependencies between definitions, lemmas, and theorems, allowing users to visualize the hierarchical backbone of abstract algebra.
 
 > [!NOTE]
-> Visionary is a **personal project built for experimentation**, focusing on clean architecture and scalable mobile development practices.
+> MathBrain is a **personal project built for experimentation**, focusing on clean architecture and scalable mobile development practices.
 
 ---
 
