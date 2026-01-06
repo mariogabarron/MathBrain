@@ -1,3 +1,4 @@
+'''
 import os
 from google import genai
 from google.genai import types
@@ -53,3 +54,4 @@ if __name__ == "__main__":
         print(result)
     else:
         print(f"⚠️ No se encontró la imagen en {test_path}")
+        '''
